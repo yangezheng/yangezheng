@@ -10,7 +10,7 @@ Coding Enthusiast 🤖
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I am a computer science student with my research focuses on <b>Machine Learning</b>, <b>Cloud Computing</b> and <b>Software Engineering</b>. 
+I am a computer science student with my research focuses on <b>Machine Learning</b> and <b>Software Engineering</b>. 
 
 My passion lies in using technology to automate tasks and embrace new challenges. Beyond my coding pursuits, I enjoy traveling and training for marathons, which have taught me valuable lessons in endurance and resilience. 🏃‍♀️
 
